@@ -1,0 +1,38 @@
+body{
+    background: linear-gradient(to bottom, #ffcc66 0%, #ff99ff 100%);
+    font-family: 'Lobster', cursive;
+}
+
+#header_div{
+    background: white;
+    color: palevioletred;
+}
+
+.header_div p{
+    font-family: 'Spline Sans', sans-serif;
+    color: goldenrod;
+    letter-spacing: 2px;
+    font-size: 15px;
+    font-weight: bold;
+}
+button{
+    font-family: 'Josefin Sans', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    letter-spacing: 5px;
+    font-weight: bolder;
+    
+}
+.copy_right_footer{
+    position: fixed;
+   bottom: 0;
+   height: 50px;
+   width: 100%;
+   background-color: #f5f5f5;
+   color: blueviolet;
+   text-align: center;
+   line-height: 1px;
+   text-shadow: 10px 10px 10px rgb(128, 128, 128);
+   font-size: 25px;
+   padding-top: 15px;
+}
